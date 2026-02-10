@@ -7,3 +7,9 @@ like Lethal Company-style gameplay.
 - Purpose: Learning & experimentation
 - Engine: Unity 2022 LTS
 - Network: Netcode for GameObjects
+
+<What I Learned>
+
+<Issues>
+
+<Notes>

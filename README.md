@@ -5,7 +5,7 @@ This repository is for studying Unity multiplayer architecture
 like Lethal Company-style gameplay.
 
 - Purpose: Learning & experimentation
-- Engine: Unity 2022 LTS
+- Engine: Unity 6.3 LTS
 - Network: Netcode for GameObjects
 
 <What I Learned>
